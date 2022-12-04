@@ -9,6 +9,7 @@ class ProductDetailScreen extends StatelessWidget {
   });
 
 
+
   final Product product;
 
   @override
