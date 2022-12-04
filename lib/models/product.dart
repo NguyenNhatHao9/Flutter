@@ -9,6 +9,7 @@ class Product {
   final ValueNotifier<bool> _isFavorite;
 
 
+
   Product({
     this.id,
     required this.title,
